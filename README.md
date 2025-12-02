@@ -7,12 +7,17 @@ This project displays a styled menu featuring coffee and dessert items, followin
 🧾 Features
 
 Clean, centered café menu layout
+
 Background image for a cozy aesthetic
+
 Sections for Coffee and Desserts
+
 Responsive widths for better viewing
+
 Simple and readable design
 
 🛠️ Technologies Used
 
 HTML5
+
 CSS3
